@@ -25,8 +25,8 @@ I am a highly motivated IT professional currently working in the **R&D Center of
 ---
 
 ### 📊 GitHub Stats
-![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Emirhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hunvisk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunvisk&layout=compact&theme=radical)
 
 ---
 
